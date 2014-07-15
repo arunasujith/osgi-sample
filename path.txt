@@ -1,0 +1,4 @@
+file:///D:/carbon/OSGi/sample-bundle/target/sample-bundle-1.0.0.jar
+file:///D:/carbon/OSGi/sample-api/target/sample-api-1.0.0.jar
+file:///D:/carbon/OSGi/sample-impl/target/sample-impl-1.0.0.jar
+file:///D:/carbon/OSGi/sample/target/sample-1.0.0.jar
